@@ -6,3 +6,4 @@ langchain_community
 openai
 python-dotenv
 faiss-cpu
+langchain-chroma
